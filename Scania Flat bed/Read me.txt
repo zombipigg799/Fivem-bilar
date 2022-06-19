@@ -1,0 +1,23 @@
+Scania Recovery Truck från BritishModding
+
+Krediter
+Modell - GTA IV Cristinel
+Konvertering till GTA V - British Modding
+Rocovery Model & Wheels- RockstarGames
+Mallad av - BritishModding
+Skins ingår av - BritishModding
+Lightbar från - DoubleDoppler
+Lightbar-redigeringar - BritishModding
+Grillljus - BritishModding
+
+Installera i senaste patchday fordonsmapp.
+
+Vänligen distribuera inte om utan tillstånd
+Jag gör inga mods för att begära så fråga inte.
+Jag ger inte ut olåsta modeller utan goda skäl.
+
+
+Dessa är X, Y, Z för dummyn för återställningsmodellen
+X - 0,000000
+Y - 0,068175
+Z - 0,989764
