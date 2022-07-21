@@ -1,0 +1,42 @@
+FRANCAIS:
+
+-Comment installer: x64e
+1. Désarchiver le dossier sur votre ordinateur
+2. Démarrer OpenIV 
+3. Passer en "Edit mode"
+4. Aller dans Grand Theft Auto V / x64e.rpf / levels / gta5 / vehicles.rpf
+5. Faites un clic-droit sur "stockade.ytd" et selectionner "Replace", remplacer le par le nouveau stockade.ytd
+6. Puis faites un clic-droit sur "stockade+hi.ytd" et selectionner "Replace", remplacer le par le nouveau stockade+hi.ytd
+
+ATTENTION: Les deux fichiers doivent-être installés pour que le mod fonctionne.
+
+COULEURS CONSEILLEES:
+Pour avoir un résultat optimal, la couleur du véhicule doit-être impérativement changée à l'aide d'un trainer.
+Les deux combinaisons conseillées sont:
+-Couleur principal (Métallisée): Blanc Glacier (Ice White) et Couleur secondaire (Métallisée): Blanc Glacier (Ice White) [1.jpg]
+-Couleur principal (Métallisée): Blanc Glacier (Ice White) et couleur secondaire (Métallisée): Bleu Racing (Racing blue) [2.jpg]
+
+
+ENGLISH:
+-How to install: x64e
+1. Unzip the folder on your computer
+2. Start OpenIV 
+3. Switch to "Edit mode"
+4. Go to Grand Theft Auto V / x64e.rpf / levels / gta5 / vehicles.rpf
+5. Do a right-click on stockade.ytd and replace the file with the new stockade.ytd
+6.Do a right-click on stockade+hi.ytd and replace the file with the new stockade+hi.ytd
+
+WARNING: You have to install both file or the mod wouldn't work correctly.
+
+RECOMMENDED COLORS:
+For the best results, please use the following combination :
+[1.jpg] -Primary color (Metallic): Ice White
+-Secondary color (Metallic): Ice White
+[2.jpg] -Primary color (Metallic): Ice White
+-Secondary color (Metallic): Racing Blue
+
+
+CREDITS:
+Texture Fourgon de la Brink's par Guncharted78 pour Grand Theft Auto V.
+
+Version 1.0
